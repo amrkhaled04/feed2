@@ -55,9 +55,10 @@ dependencies:
   # Json Lottie Files
   lottie: ^2.6.0
   # Loction
-  geolocator: ^10.0.0
+  geolocator: ^10.1.0
   map_location_picker: ^1.2.8+3
   geocoding: ^2.0.5
+  location: ^5.0.3
   google_maps_flutter: ^2.5.0
   map_launcher: ^2.3.0+1
   # Log In

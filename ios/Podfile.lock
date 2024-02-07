@@ -921,6 +921,8 @@ PODS:
   - image_picker_ios (0.0.1):
     - Flutter
   - leveldb-library (1.22.2)
+  - location (0.0.1):
+    - Flutter
   - map_launcher (0.0.1):
     - Flutter
   - nanopb (2.30909.1):
@@ -971,6 +973,7 @@ DEPENDENCIES:
   - google_sign_in_ios (from `.symlinks/plugins/google_sign_in_ios/darwin`)
   - GoogleMaps
   - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
   - map_launcher (from `.symlinks/plugins/map_launcher/ios`)
   - open_mail_app (from `.symlinks/plugins/open_mail_app/ios`)
   - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
@@ -1054,6 +1057,8 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/google_sign_in_ios/darwin"
   image_picker_ios:
     :path: ".symlinks/plugins/image_picker_ios/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
   map_launcher:
     :path: ".symlinks/plugins/map_launcher/ios"
   open_mail_app:
@@ -1118,6 +1123,7 @@ SPEC CHECKSUMS:
   GTMSessionFetcher: 8a1b34ad97ebe6f909fb8b9b77fba99943007556
   image_picker_ios: 99dfe1854b4fa34d0364e74a78448a0151025425
   leveldb-library: f03246171cce0484482ec291f88b6d563699ee06
+  location: d5cf8598915965547c3f36761ae9cc4f4e87d22e
   map_launcher: e325db1261d029ff33e08e03baccffe09593ffea
   nanopb: d4d75c12cd1316f4a64e3c6963f879ecd4b5e0d5
   open_mail_app: 794172f6a22cd16319d3ddaf45e945b2f74952b0

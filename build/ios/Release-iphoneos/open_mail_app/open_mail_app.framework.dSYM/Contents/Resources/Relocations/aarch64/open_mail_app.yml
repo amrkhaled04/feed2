@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/youssefmansour/Desktop/feedup/build/ios/Release-iphoneos/open_mail_app/open_mail_app.framework/open_mail_app'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x5A762, size: 0x8, addend: 0x0, symName: _open_mail_appVersionString, symObjAddr: 0x0, symBinAddr: 0xA4B0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x5A797, size: 0x8, addend: 0x0, symName: _open_mail_appVersionNumber, symObjAddr: 0x30, symBinAddr: 0xA4E0, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x5A7D4, size: 0x8, addend: 0x0, symName: '+[OpenMailAppPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0xC }
+  - { offsetInCU: 0x91, offset: 0x5A83E, size: 0x8, addend: 0x0, symName: '+[OpenMailAppPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0x5A8D2, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginC8register4withySo07FlutterH9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x800C, symSize: 0x4 }
+  - { offsetInCU: 0x4B, offset: 0x5A8F6, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginC8register4withySo07FlutterH9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x800C, symSize: 0x4 }
+  - { offsetInCU: 0x5F, offset: 0x5A90A, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginCACycfC', symObjAddr: 0x4, symBinAddr: 0x8010, symSize: 0x20 }
+  - { offsetInCU: 0x82, offset: 0x5A92D, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginC8register4withySo07FlutterH9Registrar_p_tFZTo', symObjAddr: 0x24, symBinAddr: 0x8030, symSize: 0x30 }
+  - { offsetInCU: 0xB4, offset: 0x5A95F, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginCACycfc', symObjAddr: 0x54, symBinAddr: 0x8060, symSize: 0x30 }
+  - { offsetInCU: 0xEF, offset: 0x5A99A, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginCACycfcTo', symObjAddr: 0x84, symBinAddr: 0x8090, symSize: 0x3C }
+  - { offsetInCU: 0x12A, offset: 0x5A9D5, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginCfD', symObjAddr: 0xC0, symBinAddr: 0x80CC, symSize: 0x30 }
+  - { offsetInCU: 0x168, offset: 0x5AA13, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginC8register4withySo07FlutterH9Registrar_p_tFZTf4nd_n', symObjAddr: 0xF0, symBinAddr: 0x80FC, symSize: 0xDC }
+  - { offsetInCU: 0x1FC, offset: 0x5AAA7, size: 0x8, addend: 0x0, symName: '_$s13open_mail_app22SwiftOpenMailAppPluginCMa', symObjAddr: 0x1CC, symBinAddr: 0x81D8, symSize: 0x20 }
+...

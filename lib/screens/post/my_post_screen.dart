@@ -102,7 +102,7 @@ bodyWidget({required Auth authService, required UserService firebaseUser, requir
                       gridDelegate:
                       const SliverGridDelegateWithMaxCrossAxisExtent(
                         maxCrossAxisExtent: 200,
-                        childAspectRatio: 2 / 2,
+                        childAspectRatio: 2/2,
                         mainAxisExtent: 250,
                         crossAxisSpacing: 8,
                         mainAxisSpacing: 10,
